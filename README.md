@@ -1,4 +1,8 @@
-env
-===
+lolmvc development environment scripts
+======================================
 
-My Gentoo development environment.
+# Gentoo
+
+# Ubuntu
+
+# M$ Windoze.
