@@ -1,8 +1,14 @@
 lolmvc development environment scripts
 ======================================
 
-# Gentoo
+## Gentoo
 
-# Ubuntu
+	/bin/sh gentoo/install.sh
 
-# M$ Windoze.
+## Ubuntu
+
+	/bin/sh ubuntu/install.sh
+
+## M$ Windoze
+
+	cscript windoze/install.vbs
